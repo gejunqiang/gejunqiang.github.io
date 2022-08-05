@@ -1,6 +1,6 @@
 baseURL: https://gejunqiang.github.io
 languageCode: en-us
-title: MyBlog
+title: Qiang
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: MyBlog
+  title: Qiang
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
