@@ -2,11 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gejunqiang.github.io/archives/</loc>
-  </url><url>
     <loc>https://gejunqiang.github.io/categories/</loc>
+    <lastmod>2022-08-05T13:55:53+08:00</lastmod>
+  </url><url>
+    <loc>https://gejunqiang.github.io/posts/hello-word/</loc>
+    <lastmod>2022-08-05T13:55:53+08:00</lastmod>
+  </url><url>
+    <loc>https://gejunqiang.github.io/posts/</loc>
+    <lastmod>2022-08-05T13:55:53+08:00</lastmod>
   </url><url>
     <loc>https://gejunqiang.github.io/</loc>
+    <lastmod>2022-08-05T13:55:53+08:00</lastmod>
+  </url><url>
+    <loc>https://gejunqiang.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-08-05T13:55:53+08:00</lastmod>
+  </url><url>
+    <loc>https://gejunqiang.github.io/archives/</loc>
   </url><url>
     <loc>https://gejunqiang.github.io/search/</loc>
   </url><url>
