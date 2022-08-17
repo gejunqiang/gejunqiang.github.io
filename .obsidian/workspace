@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c33a7cf7450a54",
+        "id": "62608aca65fa52b0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/posts/kafka入门.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be5898100d0d6f72",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/kafka入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/kafka入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/kafka入门.md"
+              }
             }
           }
         ]
@@ -122,15 +131,15 @@
   },
   "active": "e429fa63aa2eb177",
   "lastOpenFiles": [
+    "images/kafka概念.png.md",
+    "content/posts/kafka入门.md",
+    "static/images/kafka概念.png",
     "content/posts/hello-word.md",
-    "static/mages/hello-world.png.md",
-    "images/hello-world.png.md",
-    "content/posts/hello.md",
     "template/post.md",
+    "images/hello-world.png.md",
+    "static/mages/hello-world.png.md",
+    "content/posts/hello.md",
     "content/posts/helo.md",
-    "content/posts/h.md",
-    "content/posts/hello-word-2.md",
-    "content/posts/hel.md",
-    "content/posts/hell.md"
+    "content/posts/h.md"
   ]
 }
