@@ -3,7 +3,7 @@ title: "kafka入门"
 date: 2022-08-17T19:27:06+08:00
 draft: false
 
-tags: [""]
+tags: ["kafka"]
 categories: ["技术"]
 ---
 
