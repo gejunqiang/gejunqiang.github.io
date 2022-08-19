@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "62608aca65fa52b0",
+        "id": "35048c7abef36d2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e429fa63aa2eb177",
+  "active": "35048c7abef36d2b",
   "lastOpenFiles": [
-    "images/kafka概念.png.md",
+    "content/posts/kafka线上集群部署方案.md",
     "content/posts/kafka入门.md",
+    "images/kafka概念.png.md",
     "static/images/kafka概念.png",
     "content/posts/hello-word.md",
     "template/post.md",
     "images/hello-world.png.md",
     "static/mages/hello-world.png.md",
     "content/posts/hello.md",
-    "content/posts/helo.md",
-    "content/posts/h.md"
+    "content/posts/helo.md"
   ]
 }
