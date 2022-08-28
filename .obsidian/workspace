@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/kafka线上集群部署方案.md",
+            "file": "content/posts/kafka入门.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/kafka线上集群部署方案.md",
+                "file": "content/posts/kafka入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/kafka线上集群部署方案.md",
+                "file": "content/posts/kafka入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/kafka线上集群部署方案.md"
+                "file": "content/posts/kafka入门.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "35048c7abef36d2b",
   "lastOpenFiles": [
-    "content/posts/kafka入门.md",
     "content/posts/kafka线上集群部署方案.md",
+    "content/posts/kafka入门.md",
     "images/kafka概念.png.md",
     "static/images/kafka概念.png",
     "content/posts/hello-word.md",

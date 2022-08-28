@@ -138,5 +138,5 @@ Confluent Kafka 目前分为免费版和企业版两种。前者和 Apache Kafka
 
 
 > 参考：
-> 1. [极客时间 《kafka核心技术与实战》](https://time.geekbang.org/column/intro/100029201
+> 1. [极客时间 《kafka核心技术与实战》](https://time.geekbang.org/column/intro/100029201)
 
