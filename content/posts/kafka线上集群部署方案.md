@@ -1,7 +1,7 @@
 ---
 title: "kafka线上集群部署方案及参数"
 date: 2022-08-19T15:08:41+08:00
-draft: false
+draft: true
 
 tags: ["kafka"]
 categories: ["技术"]

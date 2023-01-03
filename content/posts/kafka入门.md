@@ -1,7 +1,7 @@
 ---
 title: "kafka入门"
 date: 2022-08-17T19:27:06+08:00
-draft: false
+draft: true
 
 tags: ["kafka"]
 categories: ["技术"]
@@ -72,8 +72,7 @@ Kafka 中的分区机制指的是将每个主题划分成多个分区（`Partiti
 
 ### 2.4 总结
 
-![kafka概念](/images/kafka概念.png)
-
+![kafka概念](../../images/kafka概念.png)
 如上图，总结一下kafka中的这些概念：
 - 消息：`Record`。Kafka 是消息引擎，这里的消息就是指 Kafka 处理的主要对象。
 - 主题：`Topic`。主题是承载消息的逻辑容器，在实际使用中多用来区分具体的业务。
